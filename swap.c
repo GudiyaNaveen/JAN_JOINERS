@@ -10,6 +10,8 @@ int main()
 	printf("before swapping of two numbers:\nx:%d\ny:%d\n",x,y);
 	swap(&x,&y);
 	printf("After swapping of two numbers:\nx:%d\ny:%d\n",x,y);
+	printf("Thank you");
+	printf(" Visiting\n");
 	return 0;
 }
 
